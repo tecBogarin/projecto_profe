@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:proyecto_profe/presentation/providers/movies_providers.dart';
+import 'package:proyecto_profe/presentation/providers/movies/movies_providers.dart';
 
 class HomeScreen extends StatelessWidget {
 
